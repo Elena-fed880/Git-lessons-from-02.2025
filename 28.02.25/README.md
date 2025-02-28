@@ -127,7 +127,12 @@
 
 ![image](https://github.com/user-attachments/assets/22b7fa4f-eb7a-4c37-be64-09f87141be85)
 
+В локальном репозитории мы можем посмотреть какие ветки в репозитории есть сейчас с помощью команды **git branch**:
+![image](https://github.com/user-attachments/assets/36099430-7916-4eda-be07-9d70e0f67c62)
 
+
+![Uploading image.png…]()
+ - В данном случае у нас только одна единственная ветка
 
 
 
