@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/dd8fe446-f505-4998-9a12-a7fcedb1dae7)
 # По видео с Ютуба:    https://youtu.be/VJm_AjiTEEc
 
 ## Публикация изменений в файлах в GitHub:
@@ -135,8 +135,15 @@
  - В данном случае у нас только одна единственная ветка
 
 Чтобы из ветки master создать новую ветку, нужно выполнить команду **git branch (имя новой ветки)**
-![Uploading image.png…]()
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/75b33a3b-d704-4d94-80da-212f179ee2a9)
+-тут мы просто создали новую ветку, но находимся всё еще на старой. 
 
+Чтобы перейти на новую ветку: **git checkout (имя ветки, на которую хотим перейти)**
+
+![image](https://github.com/user-attachments/assets/bb9bf4c6-6ae1-45a0-9c17-32910982f8ad)
+
+![image](https://github.com/user-attachments/assets/603a234d-3bde-4814-819e-4a24e9a509a0)
+
+ - звездочка рядом с названием ветки показывает, что мы переключились и работаеи  уже на этой ветке.
 
