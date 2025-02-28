@@ -131,8 +131,12 @@
 ![image](https://github.com/user-attachments/assets/36099430-7916-4eda-be07-9d70e0f67c62)
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6ffd6b4a-55b9-43fc-901c-8643a37b1941)
  - В данном случае у нас только одна единственная ветка
 
+Чтобы из ветки master создать новую ветку, нужно выполнить команду **git branch (имя новой ветки)**
+![Uploading image.png…]()
+
+![Uploading image.png…]()
 
 
