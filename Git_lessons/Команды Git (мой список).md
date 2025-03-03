@@ -67,9 +67,11 @@ HEAD всегда указывает на **последний коммит** и
 
 
 ДО:
+
 <img src="https://github.com/user-attachments/assets/7da3e70c-c432-4721-b171-f31169c79426" width="70%" />
 
 ПОСЛЕ:
+
 <img src="https://github.com/user-attachments/assets/f6984021-8795-4253-9a69-66492af6f9fa" width="70%" />
 
 
@@ -79,6 +81,7 @@ HEAD всегда указывает на **последний коммит** и
 <img src="https://github.com/user-attachments/assets/64c3cbd5-74fd-439d-a81b-a56168d5067b" width="70%" />
 
 ПОСЛЕ:
+
 <img src="https://github.com/user-attachments/assets/5a866c3a-2355-4182-be25-3c03b9163288" width="70%" />
 
 
