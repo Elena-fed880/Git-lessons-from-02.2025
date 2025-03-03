@@ -109,3 +109,10 @@ HEAD всегда указывает на **последний коммит** и
 
 <img src="https://github.com/user-attachments/assets/0bcbac4c-b3ec-4cc8-84a6-c6737d854fce" width="70%" />
 
+
+
+
+<img src="https://github.com/user-attachments/assets/af8d3ac9-1f80-436d-8381-39cf5de6c80f" width="70%" />
+
+
+
