@@ -111,8 +111,11 @@ HEAD всегда указывает на **последний коммит** и
 
 
 
+ДО:
 
-<img src="https://github.com/user-attachments/assets/af8d3ac9-1f80-436d-8381-39cf5de6c80f" width="70%" />
+<img src="https://github.com/user-attachments/assets/10a2bd36-dee8-4f9a-8203-c5bc4023a405" width="70%" />
+
+ПОСЛЕ:
 
 
 
