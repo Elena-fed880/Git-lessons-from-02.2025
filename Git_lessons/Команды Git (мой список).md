@@ -27,3 +27,28 @@
 ПОСЛЕ:
 
 <img src="https://github.com/user-attachments/assets/7f849d16-70c2-4d7f-9649-f046631609c6" width="50%" />
+
+
+
+<img src="https://github.com/user-attachments/assets/3c1361fe-2cbb-4502-ad63-8c0bdf850641" width="50%" />
+
+<img src="https://github.com/user-attachments/assets/a65fd0d2-ed34-4a8d-8804-98bb1d6731b5" width="50%" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
