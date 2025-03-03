@@ -19,7 +19,7 @@
 Несмотря на то, что это звучит достаточно непонятно, преимущество **rebase** в том, что c его помощью можно делать чистые и красивые линейные последовательности коммитов. История коммитов будет чище, если вы применяете **rebase**.
 
 
-
+- **`git rebase main`**
 ДО:
 
 <img src="https://github.com/user-attachments/assets/ba974c01-2706-4111-8330-2a18e7cbb6b3" width="80%" />
@@ -28,7 +28,7 @@
 
 <img src="https://github.com/user-attachments/assets/7f849d16-70c2-4d7f-9649-f046631609c6" width="70%" />
 
-
+- **`git rebase bugFix`**
 
 <img src="https://github.com/user-attachments/assets/3c1361fe-2cbb-4502-ad63-8c0bdf850641" width="70%" />
 
