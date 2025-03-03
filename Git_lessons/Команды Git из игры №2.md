@@ -47,9 +47,11 @@
 
 
 ДО: 
-![image](https://github.com/user-attachments/assets/70007cc3-7c3e-410a-9bf9-bfe53eedd92f)
+
+<img src="https://github.com/user-attachments/assets/70007cc3-7c3e-410a-9bf9-bfe53eedd92f" width="50%" />
 
 ПОСЛЕ: 
-![image](https://github.com/user-attachments/assets/7083e7a1-71d2-4c14-8161-5839a9e542f8)
+
+<img src="https://github.com/user-attachments/assets/7083e7a1-71d2-4c14-8161-5839a9e542f8" width="50%" />
 
 
