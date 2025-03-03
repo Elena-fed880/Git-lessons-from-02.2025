@@ -21,7 +21,7 @@
 
 
 ДО:
-![image](https://github.com/user-attachments/assets/ba974c01-2706-4111-8330-2a18e7cbb6b3)
-
+<img src="https://github.com/user-attachments/assets/ba974c01-2706-4111-8330-2a18e7cbb6b3" width="50%" />
 
 ПОСЛЕ:
+<img src="https://github.com/user-attachments/assets/7f849d16-70c2-4d7f-9649-f046631609c6" width="50%" />
