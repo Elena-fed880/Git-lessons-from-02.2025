@@ -359,7 +359,10 @@ Git по умолчанию перейдёт на "первого" родите�
 
 
 
+ЗАДАЧА:
 
+<img src="https://github.com/user-attachments/assets/83d58561-2c15-4a98-8d6c-6987e861695c" width="70%" />
 
-
+РЕШЕНИЕ:
+<img src="https://github.com/user-attachments/assets/f2ee2d85-0eed-482a-b9ee-686637688b03" width="70%" />
 
