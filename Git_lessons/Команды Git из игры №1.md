@@ -218,6 +218,42 @@ Git cherry-pick прекрасен, когда точно известно, ка
 <img src="https://github.com/user-attachments/assets/9f66c148-b271-4237-9e79-6dfe0e2f23c5" width="70%" />
 
 РЕШЕНИЕ:
+1)
+
+<img src="https://github.com/user-attachments/assets/34ad8dbc-8ff4-4e17-99e9-bd2f1812d5a4" width="40%" />
+
+<img src="https://github.com/user-attachments/assets/48005853-a419-43e1-8219-b955673dfdbf" width="70%" />
+
+2) 
+
+<img src="https://github.com/user-attachments/assets/e341c8d1-004f-40aa-af45-00cf42473e64" width="70%" />
+
+
+
+
+
+<img src="https://github.com/user-attachments/assets/aade5779-60b7-49da-9c5a-f95be967058c" width="70%" />
+
+<img src="https://github.com/user-attachments/assets/0fbd2ca5-1f24-4c8f-a378-f226b94b312e" width="70%" />
+
+<img src="https://github.com/user-attachments/assets/d657e611-04c6-4181-8b59-a1c4ef749abf" width="70%" />
+
+
+
+ЗАДАЧА:
+
+<img src="https://github.com/user-attachments/assets/62bb1cb1-f797-47c6-978f-8adb739d9468" width="70%" />
+
+РЕШЕНИЕ:
+
+<img src="https://github.com/user-attachments/assets/62e9922a-9da2-43ad-b35f-069e5c32a9e2" width="70%" />
+
+
+## Теги
+В прошлых уроках мы усвоили, что ветки просто двигать туда-сюда и они часто ссылаются на разные коммиты как на изменения данных в ветке. Ветки просто изменить, они часто временны и постоянно меняют своё состояние.
+
+В таком случае, где взять постоянную ссылку на момент в истории изменений? Для таких вещей, как релиз и большие слияния, нужно нечто более постоянное, чем ветка.
+
 
 
 
