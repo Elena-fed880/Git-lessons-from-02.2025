@@ -136,5 +136,20 @@ HEAD всегда указывает на **последний коммит** и
 <img src="https://github.com/user-attachments/assets/f53e841e-3173-4b29-914a-a920f314fa45" width="70%" />
 
 
+### Git Revert
+- **`git revert HEAD`**
+
+<img src="https://github.com/user-attachments/assets/d711d16c-b2d6-4911-a521-c384a10c0505" width="70%" />
+
+<img src="https://github.com/user-attachments/assets/bd1a6b3f-7c87-4926-aca5-1cae3b9c7466" width="70%" />
+
+
+ЗАДАЧА:
+<img src="https://github.com/user-attachments/assets/f2ce0da1-a162-44be-bb17-74d9eb485df6" width="70%" />
+
+РЕШЕНИЕ:
+<img src="https://github.com/user-attachments/assets/9177eeb9-fe72-4f64-bdf2-83bfd637a0a6" width="70%" />
+
+
 
 
