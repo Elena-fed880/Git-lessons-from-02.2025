@@ -234,6 +234,10 @@ Git cherry-pick прекрасен, когда точно известно, ка
 
 <img src="https://github.com/user-attachments/assets/aade5779-60b7-49da-9c5a-f95be967058c" width="70%" />
 
+
+
+- **`git cherry-pick C2`**
+
 <img src="https://github.com/user-attachments/assets/0fbd2ca5-1f24-4c8f-a378-f226b94b312e" width="70%" />
 
 <img src="https://github.com/user-attachments/assets/d657e611-04c6-4181-8b59-a1c4ef749abf" width="70%" />
