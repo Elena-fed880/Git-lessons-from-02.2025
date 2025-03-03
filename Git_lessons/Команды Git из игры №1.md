@@ -322,16 +322,40 @@ Git describe выглядит примерно так:
 <img src="https://github.com/user-attachments/assets/bc8ba2d6-c05c-4926-ab58-be425f4ab2e5" width="70%" />
 
 
+### Определение родителей
+Так же как тильда (**`~`**), каретка (**`^`**) принимает номер после себя.
+
+Но в отличие от количества коммитов, на которые нужно откатиться назад (как делает ~), номер после ^ определяет, на какого из родителей мерджа надо перейти. Учитывая, что мерджевый коммит имеет двух родителей, просто указать ^ нельзя.
+
+Git по умолчанию перейдёт на "первого" родителя коммита, но указание номера после ^ изменяет это поведение.
+
+- **`git checkout main^2`**
+
+<img src="https://github.com/user-attachments/assets/edd417c3-1f21-4edb-8b05-8c6e8cfed722" width="70%" />
+
+<img src="https://github.com/user-attachments/assets/0b28a430-e4c5-47d2-a4b1-fc6c0efce543" width="70%" />
+
+
+ДО:
+
+<img src="https://github.com/user-attachments/assets/f25f245d-8f27-45bc-9548-483d77d0406d" width="70%" />
+
+ПОСЛЕ:
+
+<img src="https://github.com/user-attachments/assets/df112121-160b-40d7-992a-d1cec886607e" width="70%" />
 
 
 
+Более того, эти модификаторы можно применять вместе. Например, так:
+- **`git checkout HEAD~^2~2`**
 
+ДО:
 
+<img src="https://github.com/user-attachments/assets/7e95f940-29c5-4f2c-8127-b7d83f75a844" width="70%" />
 
+ПОСЛЕ:
 
-
-
-
+<img src="https://github.com/user-attachments/assets/313666dd-75da-48d8-b4e4-58e35f8c4399" width="70%" />
 
 
 
