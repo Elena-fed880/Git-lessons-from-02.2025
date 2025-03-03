@@ -374,3 +374,6 @@ Git по умолчанию перейдёт на "первого" родите�
 ## ЗАДАЧА - СПУТАННЫЕ ВЕТКИ:
 
 <img src="https://github.com/user-attachments/assets/e42af279-7bcf-4eed-b153-aa04b4ed22c1" width="70%" />
+
+МОЁ РЕШЕНИЕ:
+<img src="https://github.com/user-attachments/assets/0825346e-2b9a-4097-8c56-6c66eb5f26b5" width="70%" />
